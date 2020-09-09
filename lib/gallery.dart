@@ -51,7 +51,6 @@ class _GalleryState extends State<Gallery> {
     }
 //    img = Image.asset('assets/night.png');
 //    print(Image.network(fullurls[0]);
-
   }
 
 
